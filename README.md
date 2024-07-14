@@ -37,8 +37,7 @@ The objective of this project is to make a predictive model which uses linear re
 - **Predicted Wind Speed vs Minimum Temprature**: Wind Speed is decreasing with increase in minimum temprature.
 
 ### Predictive Model
-- **Model Type**: This project uses both linear regression and decision tree classification model. Linear regession model predicts continuous data while decision tree classification model predicts discrete or categorical data.
-- **Model Performance**: Linear regression model shows very good performance with very low error values in different parameters of evaluation. Decision tree classification model shows a low performance with 73.72% accuracy.
-Linear Regression model is best suited for this project,
+- **Model Type**: This project uses both linear regression. Linear regession model predicts continuous data.
+- **Model Performance**: Linear regression model shows very good performance with very low error values in different parameters of evaluation.
 
 This project provides a comprehensive overview of model making process for weather prediction. These models are useful for descision making.
