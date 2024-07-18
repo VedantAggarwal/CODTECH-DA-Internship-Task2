@@ -10,7 +10,7 @@
 **ID:** CT4DA2646 <br>
 **Domain:** Data Analytics <br>
 **Duration:** June 20, 2024 to July 20, 2024 <br>
-**Mentor:** Muzammil Ahmed
+**Mentor:** Harish Neelam
 
 ### Objective
 
